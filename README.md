@@ -7,7 +7,18 @@ Pre-start checks:
 
 
 Startup commands:
+1. Change directory to welivefitco
+```
+cd ./welivefitcoform/welivefitco
+```
+
+2. Install dependencies
+
 ```
 npm install
+```
+
+3. Run on local server
+```
 npm run serve
 ```
